@@ -18,3 +18,6 @@ Learning Goals:
 Future Projects:
 - 2d boids in python
 - 3d boids in python
+- 2d fluid dynamics in python
+- 3d fluid dynamics in python
+- cellular automata in python
