@@ -21,3 +21,4 @@ Future Projects:
 - 2d fluid dynamics in python
 - 3d fluid dynamics in python
 - cellular automata in python
+- Python text editor
