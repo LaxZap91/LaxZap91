@@ -20,5 +20,5 @@ Future Projects:
 - 3d boids in python
 - 2d fluid dynamics in python
 - 3d fluid dynamics in python
-- cellular automata in python
+- Cellular automata in python
 - Python text editor
