@@ -3,6 +3,8 @@ I am a high schooler exploring coding.
 Programming Languages:
 - Python
 - Java (learning)
+- C++ (learning)
+- C (learning)
 
 Frameworks:
 - Pygame
@@ -16,9 +18,4 @@ Learning Goals:
 - Explore interesting ideas, like boids, and fluid simulations
 
 Future Projects:
-- 2d boids in python
-- 3d boids in python
-- 2d fluid dynamics in python
-- 3d fluid dynamics in python
-- Cellular automata in python
 - Python text editor
